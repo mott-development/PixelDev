@@ -1,0 +1,58 @@
+Hello PixelSquad development team!
+
+Welcome to the official PixelSquad git repository.
+
+------------------------------------------------------------------------------------------
+
+This repository contains three main parts:
+
+Part 1: Game Code - This folder contains the eclipse Java project for PixelSquad
+
+Part 2: Art - This folder contains any art that is original and can be used in PixelSquad
+
+Part 3: Update - This folder contains a copy of the code plus any notes people wish to 
+contribute about PixelSquad
+
+------------------------------------------------------------------------------------------
+
+Recent News:
+
+15 June 2014-
+
+-- Bulletin 1:
+PixelSquad is starting from scratch!!
+
+This marks the beginning of OFFICIAL development, a significant milestone for PixelSquad
+--Bulletin 2:
+The company needs a name...
+
+Please email 009362@mfac.edu.au for any suggestions. All suggestions will be shown in the 
+next news update
+
+current suggestions:
+
+MOTT
+--Bulletin 3:
+Company Roles:
+
+Here are the current roles for each member of the team
+
+Tommy Wells 			- Lead Designer, Secondary Programmer
+Oliver Jeffreson 		- Primary Programmer, Lead Design Technician
+Taj Parmanand-Wilson	- Primary Programmer, Secondary Artist
+Morgan Goss				- Lead Artist, Secondary Design Technician
+
+Additional Role for
+Daniel Nathan			- Ideas, Programmer (in progress :) )
+--Bulletin 4:
+In the next Tuesday meeting we will discuss how the profits will be handled
+--Bulletin 5:
+Over the holidays, a full group meeting will take place to discuss the bulletin and to
+begin official development
+
+------------------------------------------------------------------------------------------
+
+This week's Bulletin written by Taj Parmanand-Wilson
+
+
+
