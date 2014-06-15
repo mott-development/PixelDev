@@ -1,2 +1,1 @@
-Part Added
-Part Added
+Part Changed Part Deleted
