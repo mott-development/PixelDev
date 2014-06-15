@@ -51,6 +51,7 @@ Over the holidays, a full group meeting will take place to discuss the bulletin 
 begin official development
 --Bulletin 6:
 This git now goes under the name mott-development
+EDIT: changed back to tajpw... Caused too much trouble
 
 ------------------------------------------------------------------------------------------
 
