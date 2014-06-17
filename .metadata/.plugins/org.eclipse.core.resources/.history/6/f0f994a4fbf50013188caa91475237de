@@ -1,0 +1,17 @@
+package com.mott.pixelsquad.main;
+
+import javax.swing.JPanel;
+
+public class Start {
+	//setup frame
+	Frame frame;
+	Game panel;
+	
+	
+	public Start() {
+		frame = new Frame();
+		panel = new Gamex();
+		
+		
+	}
+}

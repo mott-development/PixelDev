@@ -1,0 +1,21 @@
+package com.mott.pixelsquad.main;
+
+public class Start {
+	//setup frame
+	private Frame frame;
+	private Game panel;
+	
+	//Initial variables
+	private final int INIT_WIDTH = 1280;
+	private final int INIT_HEIGHT = INIT_WIDTH / 16 * 9;
+	
+	public Start() {
+		//Initializing
+		frame = new Frame();
+		panel = new Game();
+		
+		//Settings
+		
+		
+	}
+}

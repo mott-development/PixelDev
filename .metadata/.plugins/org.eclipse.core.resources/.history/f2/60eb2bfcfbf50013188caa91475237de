@@ -1,0 +1,15 @@
+package com.mott.pixelsquad.main;
+
+public class Start {
+	//setup frame
+	Frame frame;
+	Game panel;
+	
+	
+	public Start() {
+		frame = new Frame();
+		panel = new Game();
+		
+		
+	}
+}
