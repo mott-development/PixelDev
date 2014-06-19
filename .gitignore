@@ -1,3 +1,6 @@
 .prefs
 .index
 .xml
+.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/2.png
+
+*.properties
